@@ -17,7 +17,7 @@ class Main {
         age = 20;
         Employee[] employeesArray = new Employee[5];
         employeesArray[0] = new Employee("Ivanov Boris", "Junior developer" , "II@mail.ru", "890974356", 20000, 18);
-        employeesArray[1] = new Employee("Ivanov Ivan", "Junior developer" , "II@mail.ru", "890974356", 20000, 48);
+        employeesArray[1] = new Employee("Ivanov Nick", "Junior developer" , "II@mail.ru", "890974356", 20000, 48);
         employeesArray[2] = new Employee("Ivanov Ivan", "Junior developer" , "II@mail.ru", "890974356", 20000, 56);
         employeesArray[3] = new Employee("Ivanov Ivan", "Junior developer" , "II@mail.ru", "890974356", 20000, 18);
         employeesArray[4] = new Employee("Ivanov Ivan", "Junior developer" , "II@mail.ru", "890974356", 20000, 41);
